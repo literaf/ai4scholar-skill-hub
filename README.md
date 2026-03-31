@@ -4,15 +4,7 @@
 
 ## 使用方式
 
-**Workbuddy**
-
-进入技能管理 → 上传技能，将对应文件夹中的 `SKILL.md` 拖入上传即可。
-
-**OpenClaw**
-
-```bash
-openclaw skills install ai4scholar/<skill-name>
-```
+进入 Workbuddy 技能管理 → 上传技能，将对应文件夹中的 `SKILL.md` 拖入上传即可。
 
 ---
 

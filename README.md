@@ -16,6 +16,16 @@
 
 ---
 
+## 交流社群
+
+扫码加入，与科研伙伴交流更多用法：
+
+<img src="./qrcode-community.png" width="500"/>
+
+> 如遇二维码过期或群满，请添加李孚博士
+
+---
+
 ## 关于
 
 由 [ai4scholar](https://ai4scholar.net) 出品，持续更新中。

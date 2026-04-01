@@ -13,6 +13,7 @@
 | Skill | 名称 | 描述 |
 |-------|------|------|
 | [academic-writing](./academic-writing/SKILL.md) | ai4scholar-排版助手 | 一个 Skill 覆盖四类论文排版任务：参考文献格式化、三线表生成、摘要结构润色、换投期刊适配 |
+| [paper-review](./paper-review/SKILL.md) | ai4scholar-审稿助手 | 模拟五位顶刊审稿人的学术预审委员会：理论贡献、方法论、文献对话、逻辑链条、主编预筛 |
 
 ---
 

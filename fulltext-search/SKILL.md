@@ -26,7 +26,7 @@ tags: [academic, search, fulltext, 全文搜索, 论文, API]
 
 1. 访问 [ai4scholar.net](https://ai4scholar.net) 注册账号
 2. 在个人中心获取 API Key
-3. 将 API Key 配置到你的 AI 工作台（Workbuddy / OpenClaw 等）
+3. 将 API Key 配置到你的 AI 工作台（Hermes Agent / Workbuddy / OpenClaw 等）
 
 ## 使用方法
 

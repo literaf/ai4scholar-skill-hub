@@ -20,6 +20,7 @@
 | [paper-review](./paper-review/SKILL.md) | ai4scholar-审稿助手 | 五位顶刊审稿人组成的学术预审委员会：理论贡献、方法论、文献对话、逻辑链条、主编预筛 |
 | [introduction-writing](./introduction-writing/SKILL.md) | ai4scholar-引言助手 | 五步"逻辑漏斗"流水线：背景架构、文献转折、贡献聚焦、结构路标、质检抛光 |
 | [fulltext-search](./fulltext-search/SKILL.md) | ai4scholar-全文搜索 | 在 2 亿+ 论文正文中搜索具体方法、实验参数、研究结论（需 API Key） |
+| [reference-audit](./reference-audit/SKILL.md) | ai4scholar-文献审计助手 | 全方位审计参考文献：交叉引用匹配、格式校验、DOI 验证、重复检测、自引率分析，支持联网验证真实性 |
 
 > `ai4scholar-全文搜索` 需要 API Key，请访问 [ai4scholar.net](https://ai4scholar.net) 注册获取。
 

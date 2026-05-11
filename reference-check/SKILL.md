@@ -32,7 +32,7 @@ tags: [academic, reference, audit, citation, DOI, 文献, 审计, 参考文献]
 ## 安装
 
 ```bash
-openclaw skills install ai4scholar/reference-audit
+openclaw skills install ai4scholar/reference-check
 ```
 
 或在 OpenClaw / Hermes Agent 对话中直接创建（粘贴下方配置代码）。
